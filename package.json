@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "reset-css": "^5.0.2",
+    "sanitize.css": "^13.0.0"
+  }
+}

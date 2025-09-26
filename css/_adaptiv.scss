@@ -1,0 +1,37 @@
+body {
+
+    @media (max-width:992px) {}
+
+    @media (max-width: 1200px) {
+        .header-nav__menu {
+            display: none;
+        }
+
+        .header-nav__conteiner-menu {
+            width: auto;
+        }
+    }
+
+    @media (min-width: 1200px) {
+
+        .header-nav__menu-burger {
+            position: absolute;
+            right: 40px;
+            top: 45px;
+
+        }
+    }
+
+    @media (max-width:1200px) {}
+
+    @media (max-width:992px) {}
+
+    @media (max-width:768px) {}
+
+    @media (max-width:420px) {}
+
+    @media (max-width:520px) {}
+
+    @media (max-width:420px) {}
+
+}
